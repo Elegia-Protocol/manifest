@@ -2,6 +2,6 @@
   "name":"Elegia Ruble",
   "description":"The official ruble stablecoin from Elegia Protocol",
   "symbol":"ERUB",
-  "image": "https://github.com/Elegia-Protocol/manifest/blob/main/ERUB.png?raw=true",
+  "image": "https://raw.githubusercontent.com/Elegia-Protocol/manifest/refs/heads/main/ERUB.png",
   "decimals": "6"
 }
